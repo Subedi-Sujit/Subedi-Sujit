@@ -31,7 +31,7 @@ When I’m not deep into code or AWS, I’m usually:
 ---
 
 ### 🌐 Connect  
-📫 [LinkedIn](https://www.linkedin.com/in/sujit-subedi/)  
+📫 [LinkedIn](www.linkedin.com/in/subedi-sujit)  
 💻 [GitHub](https://github.com/Subedi-Sujit)
 
 ---
