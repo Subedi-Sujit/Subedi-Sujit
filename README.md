@@ -5,15 +5,15 @@
 ---
 
 ### 💡 About Me  
-I’m a postgraduate student in **Artificial Intelligence & Machine Learning** at **Lambton College, Ottawa**, focused on applying AI concepts to build scalable, cloud-integrated systems.  
-My main interests lie in **cloud architecture**, **machine learning**, and **automation** — where data, infrastructure, and intelligence come together.  
+I’m a postgraduate student in **Artificial Intelligence & Machine Learning** at **Lambton College, Ottawa**.  
+I love exploring how **cloud and AI** can work together to create smarter, faster, and more secure systems.  
 
-I’m currently working on projects that merge **AWS services** with **Python-based ML models**, and strengthening my foundation for upcoming **Cloud Engineer / AI Developer** roles.  
+Right now, I’m working on hands-on projects that merge **AWS services** with **Python-based ML models**, building my path toward becoming a **Cloud Architect** who can bridge AI and infrastructure.  
 
 ---
 
 ### ⚙️ Skills & Tools  
-- **Languages:** Python, Bash  
+- **Languages:** Python, Bash, Linux
 - **Cloud:** AWS (EC2, S3, Lambda, IAM, CloudFormation, RDS, VPC)  
 - **Machine Learning:** TensorFlow, Scikit-learn, Pandas, Matplotlib  
 - **Dev Tools:** Git, Streamlit, Jupyter, VS Code  
@@ -21,11 +21,11 @@ I’m currently working on projects that merge **AWS services** with **Python-ba
 ---
 
 ### 🌱 Outside of Tech  
-When I’m not coding or studying cloud systems, you’ll usually find me:  
-- 📚 **Reading** about life story, global affairs, leadership, or strategy
-- 🏔️ **Hiking** and exploring new trails — being in nature clears my head  
-- 🀄 **Learning about Chinese culture** — from history and philosophy to language  
-- 🪖 **Following military technology** and global defense advancements (it’s a lifelong passion)
+When I’m not deep into code or AWS, I’m usually:  
+- 📚 Reading about history, strategy, or global affairs  
+- 🏔️ Hiking whenever I need to clear my head  
+- 🀄 Learning about Chinese culture — from philosophy to language  
+- 🪖 Following military tech and global defense systems (my lifelong fascination)
 
 ---
 
