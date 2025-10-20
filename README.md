@@ -9,6 +9,7 @@ I’m a postgraduate student in **Artificial Intelligence & Machine Learning** a
 I love exploring how **cloud and AI** can work together to create smarter, faster, and more secure systems.  
 
 Right now, I’m working on hands-on projects that merge **AWS services** with **Python-based ML models**, building my path toward becoming a **Cloud Architect** who can bridge AI and infrastructure.  
+My cybersecurity background gives me a strong foundation for designing architectures that are both **intelligent and resilient**
 
 ---
 
