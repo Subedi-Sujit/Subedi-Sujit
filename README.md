@@ -1,6 +1,6 @@
 # Hi, I'm Sujit Subedi 👋  
 
-🚀 **Aspiring Cloud Architect | AWS Certified Solutions Architect – Associate | AI/ML Student**
+☁️ Aspiring Cloud Architect • 🧠 AWS Certified Solutions Architect – Associate • 🔐 Cybersecurity Background • 🚀 Building Cloud-Integrated AI Projects
 
 ---
 
