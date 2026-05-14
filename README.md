@@ -1,64 +1,47 @@
 # Hi, I'm Sujit Subedi 👋
 
-☁️ Cloud & DevOps Engineer  
+☁️ Cloud & Infrastructure Engineer  
 🏗️ AWS Certified Solutions Architect – Associate  
-🐧 Building cloud-native infrastructure projects with AWS, Terraform, Docker, and Linux
+🐧 Building cloud-native infrastructure with AWS, Terraform, Docker, Kubernetes, and Linux
 
 ---
 
 ## 💡 About Me
 
-I recently completed postgraduate studies in Artificial Intelligence & Machine Learning at Lambton College, Ottawa, and I’m currently focused on building practical skills in cloud infrastructure, DevOps, and cloud-native application deployment.
+I’m a Cloud and Infrastructure Engineer with hands-on experience building and managing cloud-native environments, containerized workloads, Infrastructure as Code, and deployment automation.
 
-My primary interests are:
+My work focuses on:
 
 - Cloud Infrastructure
-- Infrastructure as Code (IaC)
-- Containerization
-- AWS Services
+- DevOps & Automation
+- Containerized Applications
+- Infrastructure as Code (Terraform)
 - Linux Systems
-- Deployment Automation
 - Monitoring & Observability
+- Cloud Networking & Security
 
-I enjoy building hands-on projects that help me understand how modern cloud systems operate in real environments — from provisioning infrastructure with Terraform to deploying containerized applications on AWS ECS Fargate.
+I currently work on sovereign cloud and AI research infrastructure environments, supporting deployment workflows, infrastructure reliability, monitoring, and operational governance.
 
-Recently, I built and deployed a cloud-native Flask application on AWS using:
-
-- Amazon ECS Fargate
-- Terraform
-- Docker
-- Application Load Balancer
-- Amazon ECR
-- CloudWatch Logs
-
-Through this project, I gained practical experience with:
-
-- Infrastructure provisioning
-- Docker image lifecycle
-- ECS deployment workflows
-- Cloud networking fundamentals
-- CloudWatch debugging
-- Application Load Balancer routing
-- Distributed systems behavior
-- Troubleshooting real deployment issues
-
-I’m currently working toward becoming a strong Cloud / DevOps Engineer capable of designing scalable, reliable, and production-oriented infrastructure systems.
+I enjoy building practical cloud projects that deepen my understanding of modern infrastructure systems and distributed application behavior.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies & Tools
 
 ### ☁️ Cloud & Infrastructure
-- AWS (ECS, ECR, EC2, IAM, VPC, CloudWatch, ALB)
+- AWS (ECS, ECR, EC2, IAM, VPC, CloudWatch, ALB, Lambda)
 - Terraform
-- Infrastructure as Code (IaC)
+- CloudFormation
+- OVH & Sovereign Cloud Platforms
 - Linux Administration
 - Cloud Networking
 
-### 🐳 Containers & DevOps
+### 🐳 DevOps & Containers
 - Docker
+- Kubernetes
 - Docker Compose
 - Git & GitHub
+- GitHub Actions
 - Bash Scripting
 
 ### 💻 Programming
@@ -69,9 +52,17 @@ I’m currently working toward becoming a strong Cloud / DevOps Engineer capable
 - Gunicorn
 
 ### 📊 Monitoring & Observability
+- CloudWatch
 - Prometheus
 - Grafana
-- CloudWatch Logs
+- Observability Pipelines
+- Alert Triage
+
+### 🔐 Security
+- IAM & Least Privilege
+- AWS Secrets Manager
+- Audit Logging
+- Network Security Fundamentals
 
 ---
 
@@ -79,16 +70,23 @@ I’m currently working toward becoming a strong Cloud / DevOps Engineer capable
 
 ### ☁️ CloudDeploy
 
-Cloud-native Flask REST API deployed on AWS using ECS Fargate, Terraform, Docker, Application Load Balancer, Amazon ECR, and CloudWatch Logs.
+Cloud-native Flask REST API deployed on AWS using:
+
+- ECS Fargate
+- Terraform
+- Docker
+- Application Load Balancer
+- Amazon ECR
+- CloudWatch Logs
 
 Key concepts demonstrated:
 
 - Infrastructure as Code
 - Containerized deployments
-- AWS networking
 - ECS deployment lifecycle
-- Cloud troubleshooting
-- Distributed systems awareness
+- Cloud networking
+- Deployment troubleshooting
+- Distributed systems behavior
 
 🔗 Repository:  
 https://github.com/Subedi-Sujit/clouddeploy
@@ -102,4 +100,4 @@ https://github.com/Subedi-Sujit/clouddeploy
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Always building. Always improving.
