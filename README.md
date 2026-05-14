@@ -1,39 +1,105 @@
-# Hi, I'm Sujit Subedi 👋  
+# Hi, I'm Sujit Subedi 👋
 
-☁️ Aspiring Cloud Architect • 🧠 AWS Certified Solutions Architect – Associate • 🔐 Cybersecurity Background • 🚀 Building Cloud-Integrated AI Projects
-
----
-
-### 💡 About Me  
-I’m a postgraduate student in **Artificial Intelligence & Machine Learning** at **Lambton College, Ottawa**.  
-I love exploring how **cloud and AI** can work together to create smarter, faster, and more secure systems.  
-
-Right now, I’m working on hands-on projects that merge **AWS services** with **Python-based ML models**, building my path toward becoming a **Cloud Architect** who can bridge AI and infrastructure.  
-My cybersecurity background gives me a strong foundation for designing architectures that are both **intelligent and resilient**
+☁️ Cloud & DevOps Engineer  
+🏗️ AWS Certified Solutions Architect – Associate  
+🐧 Building cloud-native infrastructure projects with AWS, Terraform, Docker, and Linux
 
 ---
 
-### ⚙️ Skills & Tools  
-- **Languages:** Python, Bash, Linux
-- **Cloud:** AWS (EC2, S3, Lambda, IAM, CloudFormation, RDS, VPC)  
-- **Machine Learning:** TensorFlow, Scikit-learn, Pandas, Matplotlib  
-- **Dev Tools:** Git, Streamlit, Jupyter, VS Code  
+## 💡 About Me
+
+I recently completed postgraduate studies in Artificial Intelligence & Machine Learning at Lambton College, Ottawa, and I’m currently focused on building practical skills in cloud infrastructure, DevOps, and cloud-native application deployment.
+
+My primary interests are:
+
+- Cloud Infrastructure
+- Infrastructure as Code (IaC)
+- Containerization
+- AWS Services
+- Linux Systems
+- Deployment Automation
+- Monitoring & Observability
+
+I enjoy building hands-on projects that help me understand how modern cloud systems operate in real environments — from provisioning infrastructure with Terraform to deploying containerized applications on AWS ECS Fargate.
+
+Recently, I built and deployed a cloud-native Flask application on AWS using:
+
+- Amazon ECS Fargate
+- Terraform
+- Docker
+- Application Load Balancer
+- Amazon ECR
+- CloudWatch Logs
+
+Through this project, I gained practical experience with:
+
+- Infrastructure provisioning
+- Docker image lifecycle
+- ECS deployment workflows
+- Cloud networking fundamentals
+- CloudWatch debugging
+- Application Load Balancer routing
+- Distributed systems behavior
+- Troubleshooting real deployment issues
+
+I’m currently working toward becoming a strong Cloud / DevOps Engineer capable of designing scalable, reliable, and production-oriented infrastructure systems.
 
 ---
 
-### 🌱 Outside of Tech  
-When I’m not deep into code or AWS, I’m usually:  
-- 📚 Reading about history, strategy, or global affairs  
-- 🏔️ Hiking whenever I need to clear my head  
-- 🀄 Learning about Chinese culture — from philosophy to language  
-- 🪖 Following military tech and global defense systems (my lifelong fascination)
+## 🛠️ Skills & Technologies
+
+### ☁️ Cloud & Infrastructure
+- AWS (ECS, ECR, EC2, IAM, VPC, CloudWatch, ALB)
+- Terraform
+- Infrastructure as Code (IaC)
+- Linux Administration
+- Cloud Networking
+
+### 🐳 Containers & DevOps
+- Docker
+- Docker Compose
+- Git & GitHub
+- Bash Scripting
+
+### 💻 Programming
+- Python
+- Flask
+- REST APIs
+- SQLAlchemy
+- Gunicorn
+
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+- CloudWatch Logs
 
 ---
 
-### 🌐 Connect  
-📫 [LinkedIn](https://www.linkedin.com/in/subedi-sujit/)  
-💻 [GitHub](https://github.com/Subedi-Sujit)
+## 🚀 Featured Project
+
+### ☁️ CloudDeploy
+
+Cloud-native Flask REST API deployed on AWS using ECS Fargate, Terraform, Docker, Application Load Balancer, Amazon ECR, and CloudWatch Logs.
+
+Key concepts demonstrated:
+
+- Infrastructure as Code
+- Containerized deployments
+- AWS networking
+- ECS deployment lifecycle
+- Cloud troubleshooting
+- Distributed systems awareness
+
+🔗 Repository:  
+https://github.com/Subedi-Sujit/clouddeploy
 
 ---
 
-⭐ *“Keep learning. Keep building. Keep evolving.”*
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/subedi-sujit
+- 🐙 GitHub: https://github.com/Subedi-Sujit
+
+---
+
+⭐ Always learning. Always building.
